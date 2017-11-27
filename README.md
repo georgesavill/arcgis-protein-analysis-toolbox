@@ -17,6 +17,7 @@ dient analysis (treatment zones.csv), and of the protein body size-distribution 
 (treatment spatial.csv). Additionally, an output of the maximum grain width is pro-
 duced for each analysis, but not permanently stored, and is overwritten by subsequent
 analyses.
+
 A second "RescalingBatch" toolbox is required to rescale input images to a 1x1 cell
 size prior to inputting the images into the protein analysis toolbox. This is required to
 prevent inaccuracies in the conversion of measurements from pixels to micrometers that
