@@ -22,3 +22,21 @@ A second "RescalingBatch" toolbox is required to rescale input images to a 1x1 c
 size prior to inputting the images into the protein analysis toolbox. This is required to
 prevent inaccuracies in the conversion of measurements from pixels to micrometers that
 may arise with different microscopes.
+
+
+Citation:
+@article{10.1093/jxb/ery127,
+    author = {Savill, George P and Buchner, Peter and Wan, Yongfang and Hawkesford, Malcolm J and Michalski, Adam and Powers, Stephen J and Tosi, Paola},
+    title = "{Temperature and nitrogen supply interact to determine protein distribution gradients in the wheat grain endosperm}",
+    journal = {Journal of Experimental Botany},
+    volume = {69},
+    number = {12},
+    pages = {3117-3126},
+    year = {2018},
+    month = {04},
+    abstract = "{Gradients exist in the distribution of storage proteins in the wheat (Triticum aestivum) endosperm and determine the milling properties and protein recovery rate of the grain. A novel image analysis technique was developed to quantify both the gradients in protein concentration, and the size distribution of protein bodies within the endosperm of wheat plants grown under two different (20 or 28 °C) post-anthesis temperatures, and supplied with a nutrient solution with either high or low nitrogen content. Under all treatment combinations, protein concentration was greater in the endosperm cells closest to the aleurone layer and decreased towards the centre of the two lobes of the grain, i.e. a negative gradient. This was accompanied by a decrease in size of protein bodies from the outer to the inner endosperm layers in all but one of the treatments. Elevated post-anthesis temperature had the effect of increasing the magnitude of the negative gradients in both protein concentration and protein body size, whilst limiting nitrogen supply decreased the gradients.}",
+    issn = {0022-0957},
+    doi = {10.1093/jxb/ery127},
+    url = {https://doi.org/10.1093/jxb/ery127},
+    eprint = {http://oup.prod.sis.lan/jxb/article-pdf/69/12/3117/25088854/ery127.pdf},
+}
