@@ -1,4 +1,4 @@
-# ArcGIS-Protein-Analysis-Toolbar
+# arcgis-protein-analysis-toolbox
 Python toolbox "Protein" for use in ArcCatalog for the protein concentration gradient
 and protein body size-distribution analysis of wheat grain images. As primary inputs
 takes a TIFF image file of the stained wheat grain, a shapefile (.shp) of the outline of
